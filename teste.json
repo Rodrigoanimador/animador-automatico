@@ -1,6 +1,6 @@
 {
- "quando": "2026-11-24T16:35:07",
+ "quando": "2026-11-24T17:13:42",
  "google": "ok",
- "cloudflare": "ok",
+ "cloudflare": "erro: HTTP 400: {\"success\":false,\"errors\":[{\"code\":9106,\"message\":\"Authentication failed (status: 400)\"}],\"messages\":[],\"result\":null}\n",
  "instagram": "faltando"
 }
